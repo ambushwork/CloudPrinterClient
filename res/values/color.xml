@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="background">#DDDDDD</drawable> 
+    <drawable name="foreground">#F7F7F7</drawable> 
+ 	<drawable name="hint">#E6E6E6</drawable> 
+ 	<drawable name="greenButton">#69DA80</drawable> 
+</resources>

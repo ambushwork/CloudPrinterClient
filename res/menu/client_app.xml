@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.seuic.cloudprinter_client.ClientApp" >
+
+     <item  
+        android:id="@+id/menu_share"  
+        android:actionProviderClass="android.widget.ShareActionProvider"  
+        android:showAsAction="ifRoom"  
+        android:title="Share"/>  
+    <item  
+        android:id="@+id/item1"  
+        android:icon="@android:drawable/ic_menu_call"  
+        android:showAsAction="ifRoom"  
+        android:title="">  
+    </item>  
+
+</menu>
